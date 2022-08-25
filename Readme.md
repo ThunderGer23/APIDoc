@@ -64,8 +64,8 @@ _Conocimientos intermadios en bases de datos, servidores, microservicios y pytho
 
 _Debe contar con el siguiente conjunto de herramientas instaladas_
 
-- [x] Python
-- [x] Editor de texto/IDE
+- [ ] Python
+- [ ] Editor de texto/IDE
 - [ ] MongoDB
 - [ ] Postman
 
