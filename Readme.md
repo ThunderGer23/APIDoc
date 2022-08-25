@@ -239,7 +239,7 @@ Este proyecto está bajo la Licencia "*MIT*" - mira el archivo [LICENSE](LICENSE
           </td>
           <th>
             <li>
-              Algun agradecimiento quer agregare despues
+              A mis compañeros por brindarme la oportunidad de participar en este proyecto 
             </li>
           </th>
         </tr>
