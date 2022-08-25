@@ -64,8 +64,8 @@ _Conocimientos intermadios en bases de datos, servidores, microservicios y pytho
 
 _Debe contar con el siguiente conjunto de herramientas instaladas_
 
-- [ ] Python
-- [ ] Editor de texto/IDE
+- [x] Python
+- [x] Editor de texto/IDE
 - [ ] MongoDB
 - [ ] Postman
 
@@ -153,9 +153,20 @@ _El despliegue se realiza de manera automatico con railway._
 
 _El diseño de esta API se realizo en base al siguiente conjunto de tecnologias._
 
+* [Anyio](https://pypi.org/project/anyio/) ➡ Librería de redes y concurrencia asíncrona que funciona sobre asyncio o trio
+* [Click](https://pypi.org/project/click/) ➡ Paquete de Python para crear hermosas interfaces de línea de comandos de manera componible con tan poco código como sea necesario
+* [Colorama](https://pypi.org/project/colorama/) ➡ Hace que las secuencias de caracteres de escape ANSI (para producir texto de terminal coloreado y posicionamiento del cursor) funcionen bajo MS Windows
+* [FastAPI](https://fastapi.tiangolo.com/#installation) ➡ Desarrollo del Servidor
+* [H11](https://pypi.org/project/h11/) ➡  Conjunto de herramientas para la construcción de programas que hablan HTTP; h11 hace mucho más fácil implementar algo como requests o twistedweb
+* [Idna](https://pypi.org/project/idna/) ➡ Soporte para el protocolo de Nombres de Dominio Internacionalizados en Aplicaciones (IDNA)
+* [Pydantic](https://pydantic-docs.helpmanual.io/) ➡ Validación de datos y gestión de configuraciones utilizando sugerencias de tipo de Python
+* [Pymongo](https://pymongo.readthedocs.io/en/stable/installation.html) ➡ Distribución de Python que contiene herramientas para trabajar con MongoDB
 * [Python 3.10.6](https://www.python.org/) ➡ Lenguaje utilizado
-* [FastAPI](https://maven.apache.org/) ➡ Desarrollo del Servidor
-* [Uvicorn](https://rometools.github.io/rome/) ➡ Manejo de peticiones HTTP
+* [Sniffio](https://pypi.org/project/sniffio/) ➡ Pequeño paquete cuyo único propósito es permitirte detectar bajo qué biblioteca asíncrona se está ejecutando tu código
+* [Starlette](https://www.starlette.io/) ➡ Framework/toolkit ASGI ligero, ideal para construir servicios web asíncronos en Python
+* [Typing_extensions](https://pypi.org/project/typing-extensions/) ➡ Permitir la experimentación con nuevos PEPs del sistema de tipos antes de que sean aceptados y añadidos al módulo de tipado ?
+* [Uvicorn](https://www.uvicorn.org/) ➡ Manejo de peticiones HTTP
+
 
 <p align="right">(<a href="#intro">Inicio</a>)</p>
 
@@ -185,6 +196,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 * **ThunderGer** - *Trabajo Inicial* - [ThunderGer23](https://github.com/ThunderGer23)
 * **R2D2** - *Documentación* - [R2D2](https://github.com/ArturoEmmanuelToledoAguado)
+*  **ItzeGar** - ** - [ItzeGar](https://github.com/itzeGar)
 
 <p align="right">(<a href="#intro">Inicio</a>)</p>
 
@@ -224,6 +236,25 @@ Este proyecto está bajo la Licencia "*MIT*" - mira el archivo [LICENSE](LICENSE
         <tr>
           <td>
             <img height="100" src="/lib/assets/avatars/Arturo.webp" width="100"/>
+          </td>
+          <th>
+            <li>
+              Algun agradecimiento quer agregare despues
+            </li>
+          </th>
+        </tr>
+      </tbody>
+    </table>
+</div>
+
+
+**ItzeGar**
+<div align="left">
+    <table border="0">  
+      <tbody>
+        <tr>
+          <td>
+            <img height="100" src="/lib/assets/avatars/Itz2.webp" width="100"/>
           </td>
           <th>
             <li>
